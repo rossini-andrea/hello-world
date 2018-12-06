@@ -17,3 +17,7 @@ cout << "This is a markdown test\n";
 * Modifica 2
 * Modifica 3
 * Modifica fatta su master
+
+## Git Flow
+
+I am adding this to see what happens after initializing **Git Flow**.
