@@ -24,4 +24,5 @@ cout << "This is a markdown test\n";
 I am adding this to see what happens after initializing **Git Flow**.
 
 This is a paragraph I will commit on `develop`, without tagging. I also added a
-blank line after the `H1` title.
+blank line after the `H1` title. And this phrase is added right after the first
+commit.
