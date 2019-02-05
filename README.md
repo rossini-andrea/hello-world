@@ -1,4 +1,5 @@
 # hello-world
+
 GitHub Tutorial
 
 Hello, I am following the GitHub tutorial.
@@ -21,3 +22,6 @@ cout << "This is a markdown test\n";
 ## Git Flow
 
 I am adding this to see what happens after initializing **Git Flow**.
+
+This is a paragraph I will commit on `develop`, without tagging. I also added a
+blank line after the `H1` title.
